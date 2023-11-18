@@ -1,0 +1,14 @@
+
+*.css
+*.svg
+*.woff2
+*.woff
+*.ttf
+*env.d.ts
+vite.config.ts
+/amplify
+/buildspec
+/coverage
+/public
+/dist
+/node_modules

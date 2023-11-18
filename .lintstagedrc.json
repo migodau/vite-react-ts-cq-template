@@ -1,0 +1,7 @@
+{
+  "*.{js,jsx,ts,tsx}": [
+    "npm run prettier",
+    "vitest related --run",
+    "npm run lint"
+  ]
+}

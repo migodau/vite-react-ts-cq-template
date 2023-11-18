@@ -1,0 +1,12 @@
+*.css
+*.svg
+*.woff2
+*.woff
+*.ttf
+*env.d.ts
+/amplify
+/buildspec
+/coverage
+/public
+/dist
+/node_modules
